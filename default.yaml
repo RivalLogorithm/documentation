@@ -1,0 +1,17 @@
+metadata:
+  title: Обзорная статья
+  subtitle: Обзор иностранной статьи "Sharma, G., Umapathy, K., Krishnan, S., Trends in audio signal feature extraction methods, (2020) Applied Acoustics, 158, статья № 107020, DOI 10.1016/j.apacoust.2019.107020"
+  author: М.А. Шаршатов
+  date: Москва – 2022
+  figureTitle: Рис.
+  figPrefix: рис.
+  titleDelim: .
+  tableTitle: Таблица
+  tblPrefix: табл.
+  numberSections: true
+  sectionsDepth: 3
+  secHeaderDelim: ". "
+  toc-title: Оглавление
+  bibliography: bibliography.bib
+  link-citations: true
+  csl: gost-r-7-0-5-2008-numeric-iaa.csl
