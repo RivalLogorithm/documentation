@@ -15,7 +15,6 @@
 1. Установить [make](https://gnuwin32.sourceforge.net/packages/make.htm)
 2. Установить [pandoc](https://pandoc.org/installing.html)
 3. Установить [panoc-crossref](https://github.com/lierdakil/pandoc-crossref/releases/latest)
-4. Установить [MikTex](https://miktex.org/download)
 
 # Запуск
 

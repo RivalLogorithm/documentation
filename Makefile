@@ -11,8 +11,8 @@ HTML_FILE = build/practice.html
 MK_BUILD = if not exist build mkdir build
 RM_BUILD = rm build/*.*
 
-PANDOC = *** PATH TO PANDOC ***
-PANDOC_CROSSREF = *** PATH TO PANDOC-CROSSREF ***
+PANDOC = C:\Users\msharshatov\AppData\Local\Pandoc\pandoc.exe
+PANDOC_CROSSREF = ./pandoc-crossref.exe
 
 OPTIONS = -d default.yaml \
 	--from=markdown+tex_math_single_backslash+tex_math_dollars+raw_tex \
